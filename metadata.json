@@ -1,0 +1,5 @@
+{
+  "name": "Video Mood Switcher",
+  "description": "A web application that displays a looping background video which can be switched between two options using dedicated buttons. The selected video continues to loop until a different one is chosen.",
+  "requestFramePermissions": []
+}
